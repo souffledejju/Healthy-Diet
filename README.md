@@ -45,8 +45,8 @@ Developing an all-in-one **AI Meal Planner** that helps users intelligently plan
 The web application was built with modern core web standards with distinct technical ownership:
 * **HTML5:** Semantic UI structure.
 * **CSS3:** Responsive layout, design system, and styling.
-* **JavaScript:** Dynamic interactions, client-side logic, and DOM manipulation.
-* **AI Integration:** Jointly architected and developed by the entire team.
+* **TypeScript:** Type-safe dynamic interactions, client-side application logic, and DOM manipulation.
+* **AI Service Integration:** Jointly architected and developed by the entire team to deliver automated nutritional recommendations.
 
 ---
 
